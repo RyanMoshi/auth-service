@@ -1,0 +1,16 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "description": "JWT-based authentication service",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "auth",
+    "service"
+  ],
+  "author": "RyanMoshi",
+  "license": "MIT"
+}
